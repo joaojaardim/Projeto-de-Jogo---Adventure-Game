@@ -87,10 +87,9 @@ void jogarJogo() {
         {'*', '*', '*', '*', '*', '*', '*', '*', '*', '*'}
     };
 
-    // Coloque a chave em uma posição adequada
+    // Posição da chave
     map[6][4] = KEY;
 
-    // Coloque a porta para a próxima fase em uma posição adequada
     // map[8][8] = DOOR_CLOSED;
 
     int playerX = 1;
