@@ -1,5 +1,8 @@
-Olá professor, esse é o jogo em C que criamos com base no comando do Projeto.
-O jogo se chama: "Labirinto das Sombras Eternas" 👇
+Fala Girotto! Esse é o jogo em C que criamos com base no comando do Projeto.
+
+Integrantes
+João Jardim, Lucas Augusto, Noam Geraldo.
+
 Capítulo 1: O Despertar
 
 Você acorda em um corredor escuro, com paredes de pedra úmida e o som distante de gotas de água ecoando através do silêncio. Sua cabeça dói, e as últimas lembranças que você tem são de uma noite tranquila em casa. Agora, você se encontra neste lugar misterioso, vestindo roupas simples e segurando uma lanterna que mal ilumina os corredores tortuosos à sua frente.
