@@ -51,6 +51,8 @@ void exibirTutorial() {
     printf("O jogo e do estilo aventura/puzzle onde o objetivo e o jogador conseguir passar de tres fases.\n");
     printf("Em cada fase o jogador deve se movimentar para pegar uma chave para abrir a porta fechada.\n");
     printf("O jogador possui os seguintes comando:\n");
+    printf("P: O jogador pega a chave.");
+    printf("I: O jogador abre a porta com a chave.");
     printf("W: O jogador movimenta uma unidade para cima;\n");
     printf("A: O jogador movimenta uma unidade para esquerda;\n");
     printf("S: O jogador movimenta uma unidade para baixo;\n");
@@ -67,10 +69,7 @@ void exibirTutorial() {
     printf(">: Simbolo que representa um teletransporte. O teletransporte sempre deve vir em pares, quando o jogador toca em um ele e transportado para o outro e vice-versa.\n");
     printf("X: Simbolo que representa o monstro nivel 1. Esse monstro tem um movimento aleatorio para cima, para esquerda, para baixo e para direita. Caso o monstro toque no jogador, a fase e reiniciada.\n");
     printf("V: Simbolo que representa o monstro nivel 2. Esse monstro tem uma inteligencia para seguir o jogador (ha varias maneiras de implementar isso). Caso o monstro toque no jogador, a fase e reiniciada.\n");
-    
-    printf("\nPressione qualquer tecla para voltar ao menu...");
-    getchar(); // Aguarda a entrada do usuario
-    getchar(); // Aguarda a entrada do usuario (necessario para capturar a tecla pressionada)
+	printf("\n");
 }
 
 // Função principal do jogo
